@@ -1,3 +1,5 @@
+Optimise way to Calculate the Power of 2
+
 int binary_expo(int x, int  y) {
     int ans = 1;
     while (y > 0) {
